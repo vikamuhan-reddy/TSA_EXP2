@@ -1,7 +1,7 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 ### Date: 02-05-2026
 ### Reg no: 212223240181
-### Name: Vikamuhnan Reddy
+### Name: Vikamuhan Reddy
 ## AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
